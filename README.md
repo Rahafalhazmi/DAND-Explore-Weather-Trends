@@ -1,6 +1,6 @@
 # DAND-Explore-Weather-Trends
 
-It is one of the projects of my Data Analyst Nanodegree
+It is one of my projects in the Data Analyst Nanodegree
 
 ### Description
 
